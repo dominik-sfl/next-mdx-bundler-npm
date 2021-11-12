@@ -1,0 +1,1 @@
+# next-mdx-bundler-npm
